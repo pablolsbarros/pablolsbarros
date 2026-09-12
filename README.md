@@ -26,11 +26,6 @@ Meu repertório reúne **Oracle, SQL, PL/SQL, APIs REST, C#/.NET, BPM e BPMN 2.0
 
 Valorizo soluções **claras, confiáveis, rastreáveis e fáceis de manter** — tecnologia aplicada a problemas reais, com arquitetura preparada para continuar evoluindo.
 
-```text
-NEGÓCIO  →  PROCESSOS  →  DADOS  →  INTEGRAÇÕES  →  SISTEMAS
-entender     modelar       organizar   conectar        evoluir
-```
-
 ## `> frentes_de_atuacao`
 
 | Frente | Como contribuo |
