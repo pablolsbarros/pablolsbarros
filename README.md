@@ -6,7 +6,7 @@ Profissional com interesse em análise, arquitetura e integração de sistemas, 
 
 ---
 
-## Tecnologias e áreas de interesse
+## Tecnologias
 
 ### Dados, bancos e ERP
 
