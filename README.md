@@ -31,7 +31,7 @@ Valorizo soluções **claras, confiáveis, rastreáveis e fáceis de manter** �
 | Frente | Como contribuo |
 | :--- | :--- |
 | **Análise de Sistemas** | Traduzo necessidades de negócio em requisitos, fluxos e direcionamentos técnicos claros. |
-| **Dados & Informação** | Estruturo e manipulo informações com Oracle, SQL, PL/SQL e modelagem de dados. |
+| **Dados** | Estruturo e manipulo informações com Oracle, SQL, PL/SQL e modelagem de dados. |
 | **Integrações** | Conecto sistemas e plataformas por meio de APIs REST e fluxos de integração. |
 | **Processos & Automação** | Mapeio processos com BPM/BPMN 2.0 e identifico oportunidades de automação. |
 | **Arquitetura & Entrega** | Organizo a evolução de soluções com versionamento, práticas DevOps e CI/CD. |
