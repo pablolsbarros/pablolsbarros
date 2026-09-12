@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
+  <title id="title">Pablo Lucas Silva Barros — Analista de Sistemas</title>
+  <desc id="description">Banner tecnológico em tema claro, conectando negócio, processos, dados, integrações e sistemas.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="0.55" stop-color="#EFF6FF"/>
+      <stop offset="1" stop-color="#F5F3FF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="86" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0891B2"/>
+      <stop offset="0.5" stop-color="#0284C7"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="850" y1="68" x2="1198" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.94"/>
+      <stop offset="1" stop-color="#EEF2FF" stop-opacity="0.86"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientTransform="translate(1000 90) rotate(90) scale(255 335)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientTransform="translate(1210 330) rotate(-150) scale(300 370)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#475569" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#334155" flood-opacity="0.14"/>
+    </filter>
+    <clipPath id="frameClip">
+      <rect x="12" y="12" width="1256" height="336" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frameClip)">
+    <rect x="12" y="12" width="1256" height="336" fill="url(#background)"/>
+    <rect x="12" y="12" width="1256" height="336" fill="url(#grid)"/>
+    <rect x="12" y="12" width="1256" height="336" fill="url(#glowCyan)"/>
+    <rect x="12" y="12" width="1256" height="336" fill="url(#glowPurple)"/>
+
+    <g opacity="0.45" fill="none" stroke="#0284C7" stroke-width="1.4">
+      <path d="M745 58 L811 58 L836 83"/>
+      <path d="M760 302 L812 302 L841 273"/>
+      <path d="M1186 44 L1221 44 L1244 67"/>
+      <circle cx="742" cy="58" r="4" fill="#0284C7"/>
+      <circle cx="758" cy="302" r="4" fill="#0284C7"/>
+      <circle cx="1184" cy="44" r="4" fill="#7C3AED" stroke="#7C3AED"/>
+    </g>
+
+    <rect x="84" y="58" width="174" height="30" rx="15" fill="#0891B2" fill-opacity="0.08" stroke="#0891B2" stroke-opacity="0.34"/>
+    <circle cx="103" cy="73" r="4" fill="#059669"/>
+    <text x="118" y="78" fill="#0E7490" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.8">SYSTEMS ANALYST</text>
+
+    <text x="84" y="156" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="2.4">PABLO LUCAS</text>
+    <text x="84" y="218" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="2.4">SILVA BARROS</text>
+    <rect x="84" y="242" width="618" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="84" y="280" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="3.2">NEGÓCIO  ·  DADOS  ·  PROCESSOS  ·  INTEGRAÇÕES</text>
+
+    <g filter="url(#shadow)">
+      <rect x="848" y="64" width="348" height="232" rx="22" fill="url(#panel)" stroke="#0284C7" stroke-opacity="0.22"/>
+      <text x="878" y="96" fill="#0369A1" font-family="Consolas, Courier New, monospace" font-size="12" font-weight="700" letter-spacing="2.2">DELIVERY PIPELINE</text>
+
+      <path d="M900 126 V260" stroke="#94A3B8" stroke-opacity="0.72" stroke-width="2"/>
+      <circle cx="900" cy="132" r="7" fill="#0891B2"/>
+      <circle cx="900" cy="174" r="7" fill="#0284C7"/>
+      <circle cx="900" cy="216" r="7" fill="#6366F1"/>
+      <circle cx="900" cy="258" r="7" fill="#7C3AED"/>
+
+      <text x="926" y="138" fill="#1E293B" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Entender</text>
+      <text x="1068" y="138" fill="#94A3B8" font-family="Consolas, Courier New, monospace" font-size="12">01</text>
+      <text x="926" y="180" fill="#1E293B" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Modelar</text>
+      <text x="1068" y="180" fill="#94A3B8" font-family="Consolas, Courier New, monospace" font-size="12">02</text>
+      <text x="926" y="222" fill="#1E293B" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Integrar</text>
+      <text x="1068" y="222" fill="#94A3B8" font-family="Consolas, Courier New, monospace" font-size="12">03</text>
+      <text x="926" y="264" fill="#1E293B" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Evoluir</text>
+      <text x="1068" y="264" fill="#94A3B8" font-family="Consolas, Courier New, monospace" font-size="12">04</text>
+    </g>
+  </g>
+
+  <rect x="12.75" y="12.75" width="1254.5" height="334.5" rx="23.25" fill="none" stroke="#CBD5E1" stroke-width="1.5"/>
+</svg>
